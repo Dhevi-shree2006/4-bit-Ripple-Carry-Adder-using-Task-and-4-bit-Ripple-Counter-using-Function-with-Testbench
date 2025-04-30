@@ -41,6 +41,9 @@ module ripple_carry_adder_4bit (
 
 endmodule
 
+OUTPUT:
+![image](https://github.com/user-attachments/assets/23bf1e06-3349-4f9e-8915-92aebb656e00)
+
 
 // Test bench for Ripple carry adder
 
@@ -112,6 +115,9 @@ module ripple_counter_4bit (
     end
 
 endmodule
+OUTPUT:
+![ripplecounterScreenshot 2025-04-30 091717](https://github.com/user-attachments/assets/ef87734c-cc17-46f4-bd5b-83322a6be3d8)
+
 
 // TestBench
 
